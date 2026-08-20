@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drrichardashby.github.io/sitemap.xml
